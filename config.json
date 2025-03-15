@@ -1,0 +1,7 @@
+{
+    "authorizations": [
+        "sk-xxx"
+    ],
+    "concurrencyLimit": 2,        
+    "concurrencyTenantLimit": 2
+}
